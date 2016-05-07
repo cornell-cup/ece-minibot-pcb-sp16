@@ -7,107 +7,72 @@ Project Path:       C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\mini
 Design Path:        C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/6/2016 8:43:07 PM
-Editing Time:       17 min
+Last Saved:         5/6/2016 11:30:22 PM
+Editing Time:       18 min
 Units:              mil (precision 2)
 
-Changed component reference "R23" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R23".
+Disconnected pin "D6-2" from net "N0394".
+Disconnected pin "C27-1" from net "N0394".
 
-Added value "Manufacturer Part Number=RC0603JR-0718KL " to component reference "R23".
+Deleted net "N0394".
 
-Added value "Distributor=Digikey" to component reference "R23".
+Added net "VIN_EDISON".
 
-Added value "Distributor Part Number=311-18KGRTR-ND " to component reference "R23".
+Renamed component reference "EDISON" to "EDISON".
 
-Changed value "Power" on component reference "R23" to "0.1W".
-Changed value "URL" on component reference "R23" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0718KL/311-18KGRTR-ND/726725".
-Added value "Minimum Quantity=5000" to component reference "R23".
+Renamed component reference "MotorLeft" to "MotorLeft".
 
-Added value "Unit price=0.00129" to component reference "R23".
+Renamed component reference "Servo" to "Servo".
 
-Changed component reference "R35" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R35".
+Renamed component reference "PICorEdison" to "PICorEdison".
 
-Added value "Manufacturer Part Number=RC0603JR-0718KL " to component reference "R35".
+Renamed component reference "ICSP" to "ICSP".
 
-Added value "Distributor=Digikey" to component reference "R35".
+Renamed component reference "MotorRight" to "MotorRight".
 
-Added value "Distributor Part Number=311-18KGRTR-ND " to component reference "R35".
+Renamed component reference "Charger" to "Charger".
 
-Changed value "Power" on component reference "R35" to "0.1W".
-Changed value "URL" on component reference "R35" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0718KL/311-18KGRTR-ND/726725".
-Added value "Minimum Quantity=5000" to component reference "R35".
+Renamed component reference "Battery" to "Battery".
 
-Added value "Unit price=0.00129" to component reference "R35".
+Renamed component reference "ColorSensor" to "ColorSensor".
 
-Changed component reference "R48" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R48".
 
-Added value "Manufacturer Part Number=RC0603JR-0718KL " to component reference "R48".
+Connected pin "EDISON-8" to net "VIN_EDISON".
+Connected pin "D6-1" to net "VBATTERY".
+Connected pin "D6-2" to net "VIN_EDISON".
+Connected pin "C27-1" to net "VIN_EDISON".
 
-Added value "Distributor=Digikey" to component reference "R48".
+Net "+3V3" changed from net class "Signal" to net class "Power".
 
-Added value "Distributor Part Number=311-18KGRTR-ND " to component reference "R48".
-
-Changed value "Power" on component reference "R48" to "0.1W".
-Changed value "URL" on component reference "R48" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0718KL/311-18KGRTR-ND/726725".
-Added value "Minimum Quantity=5000" to component reference "R48".
-
-Added value "Unit price=0.00129" to component reference "R48".
-
-Changed component reference "R1" from component "R-SM", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R1".
-
-Added value "Manufacturer Part Number=RC0603FR-07100RL " to component reference "R1".
-
-Added value "Distributor=Digikey" to component reference "R1".
-
-Added value "Distributor Part Number=311-100HRTR-ND " to component reference "R1".
-
-Added value "Value=100" to component reference "R1".
-
-Changed value "Tolerance" on component reference "R1" to "1%".
-Changed value "Power" on component reference "R1" to "0.1W".
-Changed value "URL" on component reference "R1" to "http://www.digikey.com/product-detail/en/yageo/RC0603FR-07100RL/311-100HRTR-ND/726888".
-Added value "Minimum Quantity=5000" to component reference "R1".
-
-Added value "Unit price=0.00167" to component reference "R1".
-
-Changed component reference "R7" from component "R-SM", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R7".
-
-Added value "Manufacturer Part Number=RC0603JR-07100KL " to component reference "R7".
-
-Added value "Distributor=Digikey" to component reference "R7".
-
-Added value "Distributor Part Number=311-100KGRTR-ND " to component reference "R7".
-
-Added value "Value=100K" to component reference "R7".
-
-Changed value "Power" on component reference "R7" to "0.1W".
-Changed value "URL" on component reference "R7" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07100KL/311-100KGRTR-ND/726698".
-Added value "Minimum Quantity=5000" to component reference "R7".
-
-Added value "Unit price=0.00129" to component reference "R7".
-
-Changed component reference "R33" from component "R-SM", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R33".
-
-Added value "Manufacturer Part Number=RC0603JR-07100KL " to component reference "R33".
-
-Added value "Distributor=Digikey" to component reference "R33".
-
-Added value "Distributor Part Number=311-100KGRTR-ND " to component reference "R33".
-
-Added value "Value=100K" to component reference "R33".
-
-Changed value "Power" on component reference "R33" to "0.1W".
-Changed value "URL" on component reference "R33" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07100KL/311-100KGRTR-ND/726698".
-Added value "Minimum Quantity=5000" to component reference "R33".
-
-Added value "Unit price=0.00129" to component reference "R33".
-
+Net N0016 renamed to L6205_VBOOT
+Net N0554 renamed to L6205_VCP
+Net N0021 renamed to LDS_MOT-
+Net N0034 renamed to LDS_EN_QBASE
+Net N0044 renamed to PIC_VCAP
+Net N0098 renamed to PIC_RB10
+Net N0100 renamed to PIC_RB11
+Net N0102 renamed to PIC_RB14
+Net N0104 renamed to PIC_RB8
+Net N0106 renamed to PIC_SERVO
+Net N0114 renamed to PIC_RA4
+Net N0115 renamed to PIC_RB5
+Net N0119 renamed to PIC_RB4
+Net N0176 renamed to PIC_RB2
+Net N0201 renamed to PIC_RA1
+Net N0212 renamed to PIC_RGB_G
+Net N0213 renamed to PIC_RGB_R
+Net N0237 renamed to RGB_R_K
+Net N0240 renamed to RGB_R
+Net N0243 renamed to RGB_G_K
+Net N0244 renamed to RGB_G
+Net N0330 renamed to BUCK_FB_1
+Net N0332 renamed to BUCK_LX_1
+Net N0335 renamed to BUCK_LX_2
+Net N0336 renamed to BUCK_FB_2
+Net N0482 renamed to LM35_VOUT_1
+Net N0485 renamed to LM35_VOUT_2
+Net N0486 renamed to BUCK_EN_2
+Net N0488 renamed to BUCK_EN_1
 
 
 End Of Report.
