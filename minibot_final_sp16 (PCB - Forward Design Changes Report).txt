@@ -7,765 +7,107 @@ Project Path:       C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\mini
 Design Path:        C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/6/2016 7:40:30 PM
-Editing Time:       16 min
+Last Saved:         5/6/2016 8:43:07 PM
+Editing Time:       17 min
 Units:              mil (precision 2)
 
-Disconnected pin "R5-1" from net "N0034".
-Disconnected pin "R5-2" from net "LDS_EN".
-Disconnected pin "R25-1" from net "Y".
-Disconnected pin "U8-3" from net "N0159".
-Disconnected pin "U9-3" from net "N0160".
-Disconnected pin "R27-1" from net "TEMP1".
-Disconnected pin "R27-2" from net "N0159".
-Disconnected pin "R28-1" from net "TEMP2".
-Disconnected pin "R28-2" from net "N0160".
-Disconnected pin "R37-1" from net "N0213".
-Disconnected pin "R37-2" from net "BATLED_R".
-Disconnected pin "R38-1" from net "N0212".
-Disconnected pin "R38-2" from net "BATLED_G".
-Disconnected pin "R39-1" from net "ADC_VBAT".
-Disconnected pin "R39-2" from net "GND".
-Disconnected pin "R41-1" from net "VCHARGE".
-Disconnected pin "R41-2" from net "N0252".
-Disconnected pin "R42-1" from net "ADC_VCHG".
-Disconnected pin "R42-2" from net "GND".
-Disconnected pin "R45-1" from net "CHG_EN".
-Disconnected pin "R45-2" from net "GND".
-Disconnected pin "R46-1" from net "PGC".
-Disconnected pin "R46-2" from net "CHG_EN".
-Disconnected pin "U17-4" from net "Y".
-Disconnected pin "R24-1" from net "N0309".
-Disconnected pin "R24-2" from net "GND".
-Disconnected pin "U19-4" from net "N0399".
-Disconnected pin "U20-4" from net "N0397".
-Disconnected pin "R47-1" from net "VBATTERY".
-Disconnected pin "R47-2" from net "N0397".
-Disconnected pin "R53-1" from net "VBATTERY".
-Disconnected pin "R53-2" from net "N0399".
+Changed component reference "R23" from component "R-1206", package "SM" to component "R-0603", package "SM".
+Added value "Manufacturer=Yageo" to component reference "R23".
 
-Deleted net "N0159".
-Deleted net "N0160".
-Deleted net "N0397".
-Deleted net "N0399".
+Added value "Manufacturer Part Number=RC0603JR-0718KL " to component reference "R23".
 
-Changed component reference "R41" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R41".
+Added value "Distributor=Digikey" to component reference "R23".
 
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R41".
+Added value "Distributor Part Number=311-18KGRTR-ND " to component reference "R23".
 
-Added value "Distributor=Digikey" to component reference "R41".
+Changed value "Power" on component reference "R23" to "0.1W".
+Changed value "URL" on component reference "R23" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0718KL/311-18KGRTR-ND/726725".
+Added value "Minimum Quantity=5000" to component reference "R23".
 
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R41".
+Added value "Unit price=0.00129" to component reference "R23".
 
-Changed value "Tolerance" on component reference "R41" to "5%".
-Changed value "Power" on component reference "R41" to "0.1W".
-Changed value "URL" on component reference "R41" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700".
-Added value "Minimum Quantity=5000" to component reference "R41".
+Changed component reference "R35" from component "R-1206", package "SM" to component "R-0603", package "SM".
+Added value "Manufacturer=Yageo" to component reference "R35".
 
-Added value "Unit price=0.00129" to component reference "R41".
+Added value "Manufacturer Part Number=RC0603JR-0718KL " to component reference "R35".
 
-Changed component reference "R45" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R45".
+Added value "Distributor=Digikey" to component reference "R35".
 
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R45".
+Added value "Distributor Part Number=311-18KGRTR-ND " to component reference "R35".
 
-Added value "Distributor=Digikey" to component reference "R45".
+Changed value "Power" on component reference "R35" to "0.1W".
+Changed value "URL" on component reference "R35" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0718KL/311-18KGRTR-ND/726725".
+Added value "Minimum Quantity=5000" to component reference "R35".
 
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R45".
+Added value "Unit price=0.00129" to component reference "R35".
 
-Changed value "Tolerance" on component reference "R45" to "5%".
-Changed value "Power" on component reference "R45" to "0.1W".
-Changed value "URL" on component reference "R45" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700".
-Added value "Minimum Quantity=5000" to component reference "R45".
+Changed component reference "R48" from component "R-1206", package "SM" to component "R-0603", package "SM".
+Added value "Manufacturer=Yageo" to component reference "R48".
 
-Added value "Unit price=0.00129" to component reference "R45".
+Added value "Manufacturer Part Number=RC0603JR-0718KL " to component reference "R48".
 
-Changed component reference "R2" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R2".
+Added value "Distributor=Digikey" to component reference "R48".
 
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R2".
+Added value "Distributor Part Number=311-18KGRTR-ND " to component reference "R48".
 
-Added value "Distributor=Digikey" to component reference "R2".
+Changed value "Power" on component reference "R48" to "0.1W".
+Changed value "URL" on component reference "R48" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0718KL/311-18KGRTR-ND/726725".
+Added value "Minimum Quantity=5000" to component reference "R48".
 
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R2".
+Added value "Unit price=0.00129" to component reference "R48".
 
-Changed value "Power" on component reference "R2" to "0.1W".
-Changed value "URL" on component reference "R2" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700".
-Added value "Minimum Quantity=5000" to component reference "R2".
+Changed component reference "R1" from component "R-SM", package "SM" to component "R-0603", package "SM".
+Added value "Manufacturer=Yageo" to component reference "R1".
 
-Added value "Unit price=0.00129" to component reference "R2".
+Added value "Manufacturer Part Number=RC0603FR-07100RL " to component reference "R1".
 
-Changed component reference "R3" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R3".
+Added value "Distributor=Digikey" to component reference "R1".
 
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R3".
+Added value "Distributor Part Number=311-100HRTR-ND " to component reference "R1".
 
-Added value "Distributor=Digikey" to component reference "R3".
+Added value "Value=100" to component reference "R1".
 
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R3".
+Changed value "Tolerance" on component reference "R1" to "1%".
+Changed value "Power" on component reference "R1" to "0.1W".
+Changed value "URL" on component reference "R1" to "http://www.digikey.com/product-detail/en/yageo/RC0603FR-07100RL/311-100HRTR-ND/726888".
+Added value "Minimum Quantity=5000" to component reference "R1".
 
-Changed value "Power" on component reference "R3" to "0.1W".
-Changed value "URL" on component reference "R3" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700".
-Added value "Minimum Quantity=5000" to component reference "R3".
+Added value "Unit price=0.00167" to component reference "R1".
 
-Added value "Unit price=0.00129" to component reference "R3".
+Changed component reference "R7" from component "R-SM", package "SM" to component "R-0603", package "SM".
+Added value "Manufacturer=Yageo" to component reference "R7".
 
-Changed component reference "R4" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R4".
+Added value "Manufacturer Part Number=RC0603JR-07100KL " to component reference "R7".
 
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R4".
+Added value "Distributor=Digikey" to component reference "R7".
 
-Added value "Distributor=Digikey" to component reference "R4".
+Added value "Distributor Part Number=311-100KGRTR-ND " to component reference "R7".
 
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R4".
+Added value "Value=100K" to component reference "R7".
 
-Changed value "Power" on component reference "R4" to "0.1W".
-Changed value "URL" on component reference "R4" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700".
-Added value "Minimum Quantity=5000" to component reference "R4".
+Changed value "Power" on component reference "R7" to "0.1W".
+Changed value "URL" on component reference "R7" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07100KL/311-100KGRTR-ND/726698".
+Added value "Minimum Quantity=5000" to component reference "R7".
 
-Added value "Unit price=0.00129" to component reference "R4".
+Added value "Unit price=0.00129" to component reference "R7".
 
-Changed component reference "R6" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R6".
+Changed component reference "R33" from component "R-SM", package "SM" to component "R-0603", package "SM".
+Added value "Manufacturer=Yageo" to component reference "R33".
 
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R6".
+Added value "Manufacturer Part Number=RC0603JR-07100KL " to component reference "R33".
 
-Added value "Distributor=Digikey" to component reference "R6".
+Added value "Distributor=Digikey" to component reference "R33".
 
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R6".
+Added value "Distributor Part Number=311-100KGRTR-ND " to component reference "R33".
 
-Changed value "Power" on component reference "R6" to "0.1W".
-Changed value "URL" on component reference "R6" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700".
-Added value "Minimum Quantity=5000" to component reference "R6".
+Added value "Value=100K" to component reference "R33".
 
-Added value "Unit price=0.00129" to component reference "R6".
+Changed value "Power" on component reference "R33" to "0.1W".
+Changed value "URL" on component reference "R33" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07100KL/311-100KGRTR-ND/726698".
+Added value "Minimum Quantity=5000" to component reference "R33".
 
-Changed component reference "R39" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R39".
+Added value "Unit price=0.00129" to component reference "R33".
 
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R39".
-
-Added value "Distributor=Digikey" to component reference "R39".
-
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R39".
-
-Changed value "Tolerance" on component reference "R39" to "5%".
-Changed value "Power" on component reference "R39" to "0.1W".
-Changed value "URL" on component reference "R39" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700".
-Added value "Minimum Quantity=5000" to component reference "R39".
-
-Added value "Unit price=0.00129" to component reference "R39".
-
-Changed component reference "R34" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R34".
-
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R34".
-
-Added value "Distributor=Digikey" to component reference "R34".
-
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R34".
-
-Changed value "Power" on component reference "R34" to "0.1W".
-Changed value "URL" on component reference "R34" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700".
-Added value "Minimum Quantity=5000" to component reference "R34".
-
-Added value "Unit price=0.00129" to component reference "R34".
-
-Changed component reference "R19" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R19".
-
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R19".
-
-Added value "Distributor=Digikey" to component reference "R19".
-
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R19".
-
-Changed value "Power" on component reference "R19" to "0.1W".
-Changed value "URL" on component reference "R19" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700".
-Added value "Minimum Quantity=5000" to component reference "R19".
-
-Added value "Unit price=0.00129" to component reference "R19".
-
-Changed component reference "R42" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R42".
-
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R42".
-
-Added value "Distributor=Digikey" to component reference "R42".
-
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R42".
-
-Changed value "Tolerance" on component reference "R42" to "5%".
-Changed value "Power" on component reference "R42" to "0.1W".
-Changed value "URL" on component reference "R42" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700".
-Added value "Minimum Quantity=5000" to component reference "R42".
-
-Added value "Unit price=0.00129" to component reference "R42".
-
-Changed component reference "R26" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R26".
-
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R26".
-
-Added value "Distributor=Digikey" to component reference "R26".
-
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R26".
-
-Changed value "Power" on component reference "R26" to "0.1W".
-Changed value "URL" on component reference "R26" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700".
-Added value "Minimum Quantity=5000" to component reference "R26".
-
-Added value "Unit price=0.00129" to component reference "R26".
-
-Changed component reference "R25" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R25".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R25".
-
-Added value "Distributor=Digikey" to component reference "R25".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R25".
-
-Changed value "Power" on component reference "R25" to "0.1W".
-Changed value "URL" on component reference "R25" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R25".
-
-Added value "Unit price=0.00129" to component reference "R25".
-
-Changed component reference "R20" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R20".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R20".
-
-Added value "Distributor=Digikey" to component reference "R20".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R20".
-
-Changed value "Power" on component reference "R20" to "0.1W".
-Changed value "URL" on component reference "R20" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R20".
-
-Added value "Unit price=0.00129" to component reference "R20".
-
-Changed component reference "R21" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R21".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R21".
-
-Added value "Distributor=Digikey" to component reference "R21".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R21".
-
-Changed value "Power" on component reference "R21" to "0.1W".
-Changed value "URL" on component reference "R21" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R21".
-
-Added value "Unit price=0.00129" to component reference "R21".
-
-Changed component reference "R31" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R31".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R31".
-
-Added value "Distributor=Digikey" to component reference "R31".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R31".
-
-Changed value "Power" on component reference "R31" to "0.1W".
-Changed value "URL" on component reference "R31" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R31".
-
-Added value "Unit price=0.00129" to component reference "R31".
-
-Changed component reference "R32" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R32".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R32".
-
-Added value "Distributor=Digikey" to component reference "R32".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R32".
-
-Changed value "Power" on component reference "R32" to "0.1W".
-Changed value "URL" on component reference "R32" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R32".
-
-Added value "Unit price=0.00129" to component reference "R32".
-
-Changed component reference "R36" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R36".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R36".
-
-Added value "Distributor=Digikey" to component reference "R36".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R36".
-
-Changed value "Power" on component reference "R36" to "0.1W".
-Changed value "URL" on component reference "R36" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R36".
-
-Added value "Unit price=0.00129" to component reference "R36".
-
-Changed component reference "R22" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R22".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R22".
-
-Added value "Distributor=Digikey" to component reference "R22".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R22".
-
-Changed value "Power" on component reference "R22" to "0.1W".
-Changed value "URL" on component reference "R22" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R22".
-
-Added value "Unit price=0.00129" to component reference "R22".
-
-Changed component reference "R16" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R16".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R16".
-
-Added value "Distributor=Digikey" to component reference "R16".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R16".
-
-Changed value "Power" on component reference "R16" to "0.1W".
-Changed value "URL" on component reference "R16" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R16".
-
-Added value "Unit price=0.00129" to component reference "R16".
-
-Changed component reference "R30" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R30".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R30".
-
-Added value "Distributor=Digikey" to component reference "R30".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R30".
-
-Changed value "Power" on component reference "R30" to "0.1W".
-Changed value "URL" on component reference "R30" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R30".
-
-Added value "Unit price=0.00129" to component reference "R30".
-
-Changed component reference "R29" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R29".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R29".
-
-Added value "Distributor=Digikey" to component reference "R29".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R29".
-
-Changed value "Power" on component reference "R29" to "0.1W".
-Changed value "URL" on component reference "R29" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R29".
-
-Added value "Unit price=0.00129" to component reference "R29".
-
-Changed component reference "R18" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R18".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R18".
-
-Added value "Distributor=Digikey" to component reference "R18".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R18".
-
-Changed value "Power" on component reference "R18" to "0.1W".
-Changed value "URL" on component reference "R18" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R18".
-
-Added value "Unit price=0.00129" to component reference "R18".
-
-Changed component reference "R17" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R17".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R17".
-
-Added value "Distributor=Digikey" to component reference "R17".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R17".
-
-Changed value "Power" on component reference "R17" to "0.1W".
-Changed value "URL" on component reference "R17" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R17".
-
-Added value "Unit price=0.00129" to component reference "R17".
-
-Changed component reference "R44" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R44".
-
-Added value "Manufacturer Part Number=RC0603JR-07300RL " to component reference "R44".
-
-Added value "Distributor=Digikey" to component reference "R44".
-
-Added value "Distributor Part Number=311-300GRTR-ND " to component reference "R44".
-
-Changed value "Power" on component reference "R44" to "0.1W".
-Changed value "URL" on component reference "R44" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-07300RL/311-300GRTR-ND/726765".
-Added value "Minimum Quantity=5000" to component reference "R44".
-
-Added value "Unit price=0.00129" to component reference "R44".
-
-Changed component reference "R11" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R11".
-
-Added value "Manufacturer Part Number= RC0603FR-0730RL " to component reference "R11".
-
-Added value "Distributor=Digikey" to component reference "R11".
-
-Added value "Distributor Part Number=311-30.0HRTR-ND " to component reference "R11".
-
-Changed value "Power" on component reference "R11" to "0.1W".
-Changed value "URL" on component reference "R11" to "http://www.digikey.com/product-detail/en/yageo/RC0603FR-0730RL/311-30.0HRTR-ND/727139".
-Added value "Minimum Quantity=5000" to component reference "R11".
-
-Added value "Unit price=.00167" to component reference "R11".
-
-Changed component reference "R10" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R10".
-
-Added value "Manufacturer Part Number= RC0603FR-0730RL " to component reference "R10".
-
-Added value "Distributor=Digikey" to component reference "R10".
-
-Added value "Distributor Part Number=311-30.0HRTR-ND " to component reference "R10".
-
-Changed value "Power" on component reference "R10" to "0.1W".
-Changed value "URL" on component reference "R10" to "http://www.digikey.com/product-detail/en/yageo/RC0603FR-0730RL/311-30.0HRTR-ND/727139".
-Added value "Minimum Quantity=5000" to component reference "R10".
-
-Added value "Unit price=.00167" to component reference "R10".
-
-Changed component reference "R9" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R9".
-
-Added value "Manufacturer Part Number= RC0603FR-0730RL " to component reference "R9".
-
-Added value "Distributor=Digikey" to component reference "R9".
-
-Added value "Distributor Part Number=311-30.0HRTR-ND " to component reference "R9".
-
-Changed value "Power" on component reference "R9" to "0.1W".
-Changed value "URL" on component reference "R9" to "http://www.digikey.com/product-detail/en/yageo/RC0603FR-0730RL/311-30.0HRTR-ND/727139".
-Added value "Minimum Quantity=5000" to component reference "R9".
-
-Added value "Unit price=.00167" to component reference "R9".
-
-Changed component reference "R8" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R8".
-
-Added value "Manufacturer Part Number= RC0603FR-0730RL " to component reference "R8".
-
-Added value "Distributor=Digikey" to component reference "R8".
-
-Added value "Distributor Part Number=311-30.0HRTR-ND " to component reference "R8".
-
-Changed value "Power" on component reference "R8" to "0.1W".
-Changed value "URL" on component reference "R8" to "http://www.digikey.com/product-detail/en/yageo/RC0603FR-0730RL/311-30.0HRTR-ND/727139".
-Added value "Minimum Quantity=5000" to component reference "R8".
-
-Added value "Unit price=.00167" to component reference "R8".
-
-Changed component reference "R15" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R15".
-
-Added value "Manufacturer Part Number= RC0603FR-0730RL " to component reference "R15".
-
-Added value "Distributor=Digikey" to component reference "R15".
-
-Added value "Distributor Part Number=311-30.0HRTR-ND " to component reference "R15".
-
-Changed value "Power" on component reference "R15" to "0.1W".
-Changed value "URL" on component reference "R15" to "http://www.digikey.com/product-detail/en/yageo/RC0603FR-0730RL/311-30.0HRTR-ND/727139".
-Added value "Minimum Quantity=5000" to component reference "R15".
-
-Added value "Unit price=.00167" to component reference "R15".
-
-Changed component reference "R13" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R13".
-
-Added value "Manufacturer Part Number= RC0603FR-0730RL " to component reference "R13".
-
-Added value "Distributor=Digikey" to component reference "R13".
-
-Added value "Distributor Part Number=311-30.0HRTR-ND " to component reference "R13".
-
-Changed value "Power" on component reference "R13" to "0.1W".
-Changed value "URL" on component reference "R13" to "http://www.digikey.com/product-detail/en/yageo/RC0603FR-0730RL/311-30.0HRTR-ND/727139".
-Added value "Minimum Quantity=5000" to component reference "R13".
-
-Added value "Unit price=.00167" to component reference "R13".
-
-Changed component reference "R12" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R12".
-
-Added value "Manufacturer Part Number= RC0603FR-0730RL " to component reference "R12".
-
-Added value "Distributor=Digikey" to component reference "R12".
-
-Added value "Distributor Part Number=311-30.0HRTR-ND " to component reference "R12".
-
-Changed value "Power" on component reference "R12" to "0.1W".
-Changed value "URL" on component reference "R12" to "http://www.digikey.com/product-detail/en/yageo/RC0603FR-0730RL/311-30.0HRTR-ND/727139".
-Added value "Minimum Quantity=5000" to component reference "R12".
-
-Added value "Unit price=.00167" to component reference "R12".
-
-Changed component reference "R14" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R14".
-
-Added value "Manufacturer Part Number= RC0603FR-0730RL " to component reference "R14".
-
-Added value "Distributor=Digikey" to component reference "R14".
-
-Added value "Distributor Part Number=311-30.0HRTR-ND " to component reference "R14".
-
-Changed value "Power" on component reference "R14" to "0.1W".
-Changed value "URL" on component reference "R14" to "http://www.digikey.com/product-detail/en/yageo/RC0603FR-0730RL/311-30.0HRTR-ND/727139".
-Added value "Minimum Quantity=5000" to component reference "R14".
-
-Added value "Unit price=.00167" to component reference "R14".
-
-Changed component reference "R5" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R5".
-
-Added value "Manufacturer Part Number=RC0603JR-071KL " to component reference "R5".
-
-Added value "Distributor=Digikey" to component reference "R5".
-
-Added value "Distributor Part Number=311-1.0KGRTR-ND " to component reference "R5".
-
-Changed value "Power" on component reference "R5" to "0.1W".
-Changed value "URL" on component reference "R5" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-071KL/311-1.0KGRTR-ND/726677".
-Added value "Minimum Quantity=5000" to component reference "R5".
-
-Added value "Unit price=0.00129" to component reference "R5".
-
-Changed component reference "R27" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R27".
-
-Added value "Manufacturer Part Number=RC0603JR-071KL " to component reference "R27".
-
-Added value "Distributor=Digikey" to component reference "R27".
-
-Added value "Distributor Part Number=311-1.0KGRTR-ND " to component reference "R27".
-
-Changed value "Power" on component reference "R27" to "0.1W".
-Changed value "URL" on component reference "R27" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-071KL/311-1.0KGRTR-ND/726677".
-Added value "Minimum Quantity=5000" to component reference "R27".
-
-Added value "Unit price=0.00129" to component reference "R27".
-
-Changed component reference "R28" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R28".
-
-Added value "Manufacturer Part Number=RC0603JR-071KL " to component reference "R28".
-
-Added value "Distributor=Digikey" to component reference "R28".
-
-Added value "Distributor Part Number=311-1.0KGRTR-ND " to component reference "R28".
-
-Changed value "Power" on component reference "R28" to "0.1W".
-Changed value "URL" on component reference "R28" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-071KL/311-1.0KGRTR-ND/726677".
-Added value "Minimum Quantity=5000" to component reference "R28".
-
-Added value "Unit price=0.00129" to component reference "R28".
-
-Changed component reference "R53" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R53".
-
-Added value "Manufacturer Part Number=RC0603JR-071KL " to component reference "R53".
-
-Added value "Distributor=Digikey" to component reference "R53".
-
-Added value "Distributor Part Number=311-1.0KGRTR-ND " to component reference "R53".
-
-Changed value "Power" on component reference "R53" to "0.1W".
-Changed value "URL" on component reference "R53" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-071KL/311-1.0KGRTR-ND/726677".
-Added value "Minimum Quantity=5000" to component reference "R53".
-
-Added value "Unit price=0.00129" to component reference "R53".
-
-Changed component reference "R47" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R47".
-
-Added value "Manufacturer Part Number=RC0603JR-071KL " to component reference "R47".
-
-Added value "Distributor=Digikey" to component reference "R47".
-
-Added value "Distributor Part Number=311-1.0KGRTR-ND " to component reference "R47".
-
-Changed value "Power" on component reference "R47" to "0.1W".
-Changed value "URL" on component reference "R47" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-071KL/311-1.0KGRTR-ND/726677".
-Added value "Minimum Quantity=5000" to component reference "R47".
-
-Added value "Unit price=0.00129" to component reference "R47".
-
-Changed component reference "R24" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R24".
-
-Added value "Manufacturer Part Number=RC0603JR-071KL " to component reference "R24".
-
-Added value "Distributor=Digikey" to component reference "R24".
-
-Added value "Distributor Part Number=311-1.0KGRTR-ND " to component reference "R24".
-
-Changed value "Power" on component reference "R24" to "0.1W".
-Changed value "URL" on component reference "R24" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-071KL/311-1.0KGRTR-ND/726677".
-Added value "Minimum Quantity=5000" to component reference "R24".
-
-Added value "Unit price=0.00129" to component reference "R24".
-
-Changed component reference "R46" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R46".
-
-Added value "Manufacturer Part Number=RC0603JR-071KL " to component reference "R46".
-
-Added value "Distributor=Digikey" to component reference "R46".
-
-Added value "Distributor Part Number=311-1.0KGRTR-ND " to component reference "R46".
-
-Changed value "Power" on component reference "R46" to "0.1W".
-Changed value "URL" on component reference "R46" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-071KL/311-1.0KGRTR-ND/726677".
-Added value "Minimum Quantity=5000" to component reference "R46".
-
-Added value "Unit price=0.00129" to component reference "R46".
-
-Changed component reference "R37" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R37".
-
-Added value "Manufacturer Part Number=RC0603JR-071KL " to component reference "R37".
-
-Added value "Distributor=Digikey" to component reference "R37".
-
-Added value "Distributor Part Number=311-1.0KGRTR-ND " to component reference "R37".
-
-Changed value "Power" on component reference "R37" to "0.1W".
-Changed value "URL" on component reference "R37" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-071KL/311-1.0KGRTR-ND/726677".
-Added value "Minimum Quantity=5000" to component reference "R37".
-
-Added value "Unit price=0.00129" to component reference "R37".
-
-Changed component reference "R38" from component "R-1206", package "SM" to component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R38".
-
-Added value "Manufacturer Part Number=RC0603JR-071KL " to component reference "R38".
-
-Added value "Distributor=Digikey" to component reference "R38".
-
-Added value "Distributor Part Number=311-1.0KGRTR-ND " to component reference "R38".
-
-Changed value "Power" on component reference "R38" to "0.1W".
-Changed value "URL" on component reference "R38" to "http://www.digikey.com/product-detail/en/yageo/RC0603JR-071KL/311-1.0KGRTR-ND/726677".
-Added value "Minimum Quantity=5000" to component reference "R38".
-
-Added value "Unit price=0.00129" to component reference "R38".
-
-
-Added net "N0431".
-Added net "N0482".
-Added net "N0485".
-Added net "N0486".
-Added net "N0488".
-
-Added component reference "R54" of component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R54".
-
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R54".
-
-Added value "Distributor=Digikey" to component reference "R54".
-
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R54".
-
-Added value "Value=10k" to component reference "R54".
-
-Added value "Tolerance=5%" to component reference "R54".
-
-Added value "Power=0.1W" to component reference "R54".
-
-Added value "URL=http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700" to component reference "R54".
-
-Added value "Minimum Quantity=5000" to component reference "R54".
-
-Added value "Unit price=0.00129" to component reference "R54".
-
-Added component reference "R55" of component "R-0603", package "SM".
-Added value "Manufacturer=Yageo" to component reference "R55".
-
-Added value "Manufacturer Part Number=RC0603JR-0710KL " to component reference "R55".
-
-Added value "Distributor=Digikey" to component reference "R55".
-
-Added value "Distributor Part Number=311-10KGRTR-ND" to component reference "R55".
-
-Added value "Value=10k" to component reference "R55".
-
-Added value "Tolerance=5%" to component reference "R55".
-
-Added value "Power=0.1W" to component reference "R55".
-
-Added value "URL=http://www.digikey.com/product-detail/en/yageo/RC0603JR-0710KL/311-10KGRTR-ND/726700" to component reference "R55".
-
-Added value "Minimum Quantity=5000" to component reference "R55".
-
-Added value "Unit price=0.00129" to component reference "R55".
-
-
-Connected pin "U8-3" to net "N0482".
-Connected pin "U9-3" to net "N0485".
-Connected pin "U17-4" to net "N0431".
-Connected pin "U19-4" to net "N0486".
-Connected pin "U20-4" to net "N0488".
-Connected pin "R41-1" to net "N0252".
-Connected pin "R41-2" to net "VCHARGE".
-Connected pin "R45-1" to net "GND".
-Connected pin "R45-2" to net "CHG_EN".
-Connected pin "R39-1" to net "GND".
-Connected pin "R39-2" to net "ADC_VBAT".
-Connected pin "R42-1" to net "GND".
-Connected pin "R42-2" to net "ADC_VCHG".
-Connected pin "R54-1" to net "BATLED_R".
-Connected pin "R54-2" to net "GND".
-Connected pin "R55-1" to net "BATLED_G".
-Connected pin "R55-2" to net "GND".
-Connected pin "R25-1" to net "N0431".
-Connected pin "R5-1" to net "LDS_EN".
-Connected pin "R5-2" to net "N0034".
-Connected pin "R27-1" to net "N0482".
-Connected pin "R27-2" to net "TEMP1".
-Connected pin "R28-1" to net "N0485".
-Connected pin "R28-2" to net "TEMP2".
-Connected pin "R53-1" to net "N0486".
-Connected pin "R53-2" to net "VBATTERY".
-Connected pin "R47-1" to net "N0488".
-Connected pin "R47-2" to net "VBATTERY".
-Connected pin "R24-1" to net "GND".
-Connected pin "R24-2" to net "N0309".
-Connected pin "R46-1" to net "CHG_EN".
-Connected pin "R46-2" to net "PGC".
-Connected pin "R37-1" to net "BATLED_R".
-Connected pin "R37-2" to net "N0213".
-Connected pin "R38-1" to net "BATLED_G".
-Connected pin "R38-2" to net "N0212".
-
-Net N0084 renamed to SS_GPIO
-Net N0087 renamed to MOSI_GPIO
-Net N0088 renamed to MISO_GPIO
-Net N0090 renamed to SCK_GPIO
-Net N0121 renamed to MOTLENC_GPIO
-Net N0122 renamed to MOTL2_GPIO
-Net N0123 renamed to MOTL1_GPIO
-Net N0187 renamed to MOTR1_GPIO
-Net N0188 renamed to MOTR2_GPIO
-Net N0208 renamed to MOTRENC_GPIO
-Net N0257 renamed to N0459
 
 
 End Of Report.
