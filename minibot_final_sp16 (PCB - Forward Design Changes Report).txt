@@ -7,72 +7,16 @@ Project Path:       C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\mini
 Design Path:        C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/6/2016 11:30:22 PM
-Editing Time:       18 min
+Last Saved:         5/6/2016 11:46:07 PM
+Editing Time:       22 min
 Units:              mil (precision 2)
 
-Disconnected pin "D6-2" from net "N0394".
-Disconnected pin "C27-1" from net "N0394".
+Renamed component reference "RGBIndicator" to "RGBIndicator".
 
-Deleted net "N0394".
+Renamed component reference "Out5V" to "Out5V".
 
-Added net "VIN_EDISON".
+Renamed component reference "Out3V3" to "Out3V3".
 
-Renamed component reference "EDISON" to "EDISON".
-
-Renamed component reference "MotorLeft" to "MotorLeft".
-
-Renamed component reference "Servo" to "Servo".
-
-Renamed component reference "PICorEdison" to "PICorEdison".
-
-Renamed component reference "ICSP" to "ICSP".
-
-Renamed component reference "MotorRight" to "MotorRight".
-
-Renamed component reference "Charger" to "Charger".
-
-Renamed component reference "Battery" to "Battery".
-
-Renamed component reference "ColorSensor" to "ColorSensor".
-
-
-Connected pin "EDISON-8" to net "VIN_EDISON".
-Connected pin "D6-1" to net "VBATTERY".
-Connected pin "D6-2" to net "VIN_EDISON".
-Connected pin "C27-1" to net "VIN_EDISON".
-
-Net "+3V3" changed from net class "Signal" to net class "Power".
-
-Net N0016 renamed to L6205_VBOOT
-Net N0554 renamed to L6205_VCP
-Net N0021 renamed to LDS_MOT-
-Net N0034 renamed to LDS_EN_QBASE
-Net N0044 renamed to PIC_VCAP
-Net N0098 renamed to PIC_RB10
-Net N0100 renamed to PIC_RB11
-Net N0102 renamed to PIC_RB14
-Net N0104 renamed to PIC_RB8
-Net N0106 renamed to PIC_SERVO
-Net N0114 renamed to PIC_RA4
-Net N0115 renamed to PIC_RB5
-Net N0119 renamed to PIC_RB4
-Net N0176 renamed to PIC_RB2
-Net N0201 renamed to PIC_RA1
-Net N0212 renamed to PIC_RGB_G
-Net N0213 renamed to PIC_RGB_R
-Net N0237 renamed to RGB_R_K
-Net N0240 renamed to RGB_R
-Net N0243 renamed to RGB_G_K
-Net N0244 renamed to RGB_G
-Net N0330 renamed to BUCK_FB_1
-Net N0332 renamed to BUCK_LX_1
-Net N0335 renamed to BUCK_LX_2
-Net N0336 renamed to BUCK_FB_2
-Net N0482 renamed to LM35_VOUT_1
-Net N0485 renamed to LM35_VOUT_2
-Net N0486 renamed to BUCK_EN_2
-Net N0488 renamed to BUCK_EN_1
 
 
 End Of Report.
