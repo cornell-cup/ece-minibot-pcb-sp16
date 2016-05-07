@@ -7,14 +7,62 @@ Project Path:       C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\mini
 Design Path:        C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/7/2016 1:52:10 AM
-Editing Time:       74 min
+Last Saved:         5/7/2016 3:16:57 AM
+Editing Time:       156 min
 Units:              mil (precision 2)
 
-Renamed component reference "LidarData" to "LidarData".
+Disconnected pin "R40-1" from net "VBATTERY".
+Disconnected pin "R40-2" from net "ADC_VBAT".
+Disconnected pin "R43-1" from net "VCHARGE".
+Disconnected pin "R43-2" from net "ADC_VCHG".
 
-Renamed component reference "LidarMotor" to "LidarMotor".
+Changed value "Manufacturer Part Number" on component reference "R42" to "RT0603BRD0710KL".
+Changed value "Distributor Part Number" on component reference "R42" to "YAG1236CT-ND ".
+Changed value "Tolerance" on component reference "R42" to "0.1%".
+Changed value "URL" on component reference "R42" to "http://www.digikey.com/product-detail/en/yageo/RT0603BRD0710KL/YAG1236CT-ND/4340589".
+Changed value "Minimum Quantity" on component reference "R42" to "1".
+Changed value "Unit price" on component reference "R42" to "0.52".
+Changed value "Manufacturer Part Number" on component reference "R39" to "RT0603BRD0710KL".
+Changed value "Distributor Part Number" on component reference "R39" to "YAG1236CT-ND ".
+Changed value "Tolerance" on component reference "R39" to "0.1%".
+Changed value "URL" on component reference "R39" to "http://www.digikey.com/product-detail/en/yageo/RT0603BRD0710KL/YAG1236CT-ND/4340589".
+Changed value "Minimum Quantity" on component reference "R39" to "1".
+Changed value "Unit price" on component reference "R39" to "0.52".
+Changed component reference "R40" from component "R-1206", package "SM" to component "R-0603", package "SM".
+Added value "Manufacturer=Yageo" to component reference "R40".
 
+Added value "Manufacturer Part Number=RT0603BRD0745K3L" to component reference "R40".
+
+Added value "Distributor=Digikey" to component reference "R40".
+
+Added value "Distributor Part Number=YAG1663CT-ND " to component reference "R40".
+
+Changed value "Power" on component reference "R40" to "0.1W".
+Changed value "URL" on component reference "R40" to "http://www.digikey.com/product-detail/en/yageo/RT0603BRD0745K3L/YAG1663CT-ND/5139111".
+Added value "Minimum Quantity=1" to component reference "R40".
+
+Added value "Unit price=0.39" to component reference "R40".
+
+Changed component reference "R43" from component "R-1206", package "SM" to component "R-0603", package "SM".
+Added value "Manufacturer=Yageo" to component reference "R43".
+
+Added value "Manufacturer Part Number=RT0603BRD0791KL" to component reference "R43".
+
+Added value "Distributor=Digikey" to component reference "R43".
+
+Added value "Distributor Part Number= YAG1749CT-ND " to component reference "R43".
+
+Changed value "Power" on component reference "R43" to "0.1W".
+Changed value "URL" on component reference "R43" to "http://www.digikey.com/product-detail/en/yageo/RT0603BRD0791KL/YAG1749CT-ND/5139197".
+Added value "Minimum Quantity=1" to component reference "R43".
+
+Added value "Unit price=0.39" to component reference "R43".
+
+
+Connected pin "R40-1" to net "ADC_VBAT".
+Connected pin "R40-2" to net "VBATTERY".
+Connected pin "R43-1" to net "ADC_VCHG".
+Connected pin "R43-2" to net "VCHARGE".
 
 
 End Of Report.
