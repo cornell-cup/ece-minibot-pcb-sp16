@@ -7,15 +7,11 @@ Project Path:       F:\ece-minibot-pcb-sp16\minibot_final_sp16.prj
 Design Path:        F:\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/9/2016 1:11:17 AM
-Editing Time:       514 min
+Last Saved:         5/9/2016 5:15:44 AM
+Editing Time:       632 min
 Units:              mil (precision 2)
 
-Disconnected pin "L1-1" from net "BUCK_LX_2".
-Disconnected pin "L1-4" from net "+5V".
-
-Connected pin "L1-1" to net "+5V".
-Connected pin "L1-4" to net "BUCK_LX_2".
+The designs are the same, so no design changes to forward.
 
 
 End Of Report.
