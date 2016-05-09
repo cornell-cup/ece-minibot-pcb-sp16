@@ -7,16 +7,207 @@ Project Path:       D:\Spring 2016\Minibot\ece-minibot-pcb-sp16\minibot_final_sp
 Design Path:        D:\Spring 2016\Minibot\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/9/2016 4:41:43 PM
-Editing Time:       833 min
+Last Saved:         5/9/2016 5:16:00 PM
+Editing Time:       864 min
 Units:              mil (precision 2)
 
 
 Results
 =======
 
+Gap in Net "+3V3" between (8322.50,8785.00) and (8990.00,8775.00) 
+    +3V3.
+Gap in Net "+5V" between (11700.00,8240.00) and (10488.00,8060.00) 
+    +5V.
+Gap in Net "+5V" between (9782.36,8603.78) and (9509.00,8945.00) 
+    +5V.
+Gap in Net "+5V" between (9509.00,8945.00) and (9509.00,9155.00) 
+    +5V.
+Gap in Net "+5V" between (9509.00,9155.00) and (9499.00,9375.00) 
+    +5V.
+Gap in Net "+5V" between (9499.00,9375.00) and (9514.00,9565.00) 
+    +5V.
+Gap in Net "+5V" between (9509.00,8945.00) and (9350.00,8740.00) 
+    +5V.
+Gap in Net "+5V" between (9514.00,9565.00) and (9475.00,9885.00) 
+    +5V.
+Gap in Net "BUCK_FB_1" between (10287.60,10166.18) and (9807.50,9475.00) 
+    BUCK_FB_1.
+Gap in Net "GND" between (8675.00,8215.00) and (8775.00,8215.00) 
+    GND.
+Gap in Net "GND" between (8675.00,8215.00) and (8687.50,8468.50) 
+    GND.
+Gap in Net "GND" between (8687.50,8468.50) and (8692.50,8520.00) 
+    GND.
+Gap in Net "GND" between (8692.50,8520.00) and (8832.50,8488.50) 
+    GND.
+Gap in Net "GND" between (8832.50,8488.50) and (8837.50,8540.00) 
+    GND.
+Gap in Net "GND" between (8837.50,8540.00) and (8890.00,8717.50) 
+    GND.
+Gap in Net "GND" between (8890.00,8717.50) and (8990.00,8705.00) 
+    GND.
+Gap in Net "GND" between (8692.50,8520.00) and (8552.50,8680.00) 
+    GND.
+Gap in Net "GND" between (8552.50,8680.00) and (8350.00,8680.00) 
+    GND.
+Gap in Net "GND" between (8350.00,8680.00) and (8357.50,8605.00) 
+    GND.
+Gap in Net "GND" between (8990.00,8705.00) and (9190.00,8615.08) 
+    GND.
+Gap in Net "GND" between (8890.00,8717.50) and (8740.00,8898.90) 
+    GND.
+Gap in Net "GND" between (8740.00,8898.90) and (8535.00,9040.00) 
+    GND.
+Gap in Net "GND" between (8535.00,9040.00) and (8532.50,9110.00) 
+    GND.
+Gap in Net "GND" between (8532.50,9110.00) and (8440.00,9261.10) 
+    GND.
+Gap in Net "GND" between (8440.00,9261.10) and (8410.00,9370.00) 
+    GND.
+Gap in Net "GND" between (8410.00,9370.00) and (8506.77,9519.00) 
+    GND.
+Gap in Net "GND" between (8410.00,9370.00) and (8210.00,9520.00) 
+    GND.
+Gap in Net "GND" between (8210.00,9520.00) and (8210.00,9720.00) 
+    GND.
+Gap in Net "GND" between (8210.00,9520.00) and (8015.00,9410.00) 
+    GND.
+Gap in Net "GND" between (9190.00,8615.08) and (9350.00,8810.00) 
+    GND.
+Gap in Net "GND" between (9350.00,8810.00) and (9421.00,8945.00) 
+    GND.
+Gap in Net "GND" between (9421.00,8945.00) and (9421.00,9155.00) 
+    GND.
+Gap in Net "GND" between (9421.00,9155.00) and (9411.00,9375.00) 
+    GND.
+Gap in Net "GND" between (9411.00,9375.00) and (9426.00,9565.00) 
+    GND.
+Gap in Net "GND" between (9426.00,9565.00) and (9515.00,9767.50) 
+    GND.
+Gap in Net "GND" between (8535.00,9040.00) and (8245.00,9028.00) 
+    GND.
+Gap in Net "GND" between (8245.00,9028.00) and (8015.00,8810.00) 
+    GND.
+Gap in Net "GND" between (8532.50,9110.00) and (8840.00,9261.10) 
+    GND.
+Gap in Net "GND" between (8840.00,9261.10) and (8860.00,9587.00) 
+    GND.
+Gap in Net "GND" between (8015.00,9410.00) and (7640.00,9460.00) 
+    GND.
+Gap in Net "GND" between (7640.00,9460.00) and (7300.00,9655.00) 
+    GND.
+Gap in Net "GND" between (7300.00,9655.00) and (7165.00,9410.00) 
+    GND.
+Gap in Net "GND" between (8210.00,9720.00) and (8110.00,10115.00) 
+    GND.
+Gap in Net "GND" between (8110.00,10115.00) and (8113.50,10337.50) 
+    GND.
+Gap in Net "GND" between (8113.50,10337.50) and (8185.00,10337.50) 
+    GND.
+Gap in Net "GND" between (8185.00,10337.50) and (8573.11,10440.00) 
+    GND.
+Gap in Net "GND" between (8573.11,10440.00) and (9051.01,10287.60) 
+    GND.
+Gap in Net "GND" between (9051.01,10287.60) and (9085.00,10445.00) 
+    GND.
+Gap in Net "GND" between (7165.00,9410.00) and (7165.00,8810.00) 
+    GND.
+Gap in Net "GND" between (8675.00,8215.00) and (8065.00,7855.00) 
+    GND.
+Gap in Net "GND" between (9515.00,9767.50) and (10220.00,9940.00) 
+    GND.
+Gap in Net "GND" between (10220.00,9940.00) and (10263.00,9755.00) 
+    GND.
+Gap in Net "GND" between (10220.00,9940.00) and (10325.00,10166.18) 
+    GND.
+Gap in Net "GND" between (10325.00,10166.18) and (10352.50,10305.00) 
+    GND.
+Gap in Net "GND" between (10263.00,9755.00) and (10409.65,9530.00) 
+    GND.
+Gap in Net "GND" between (10409.65,9530.00) and (10367.50,9200.00) 
+    GND.
+Gap in Net "GND" between (10367.50,9200.00) and (10340.00,9041.18) 
+    GND.
+Gap in Net "GND" between (10340.00,9041.18) and (10235.00,8815.00) 
+    GND.
+Gap in Net "GND" between (10235.00,8815.00) and (10253.00,8620.00) 
+    GND.
+Gap in Net "GND" between (10253.00,8620.00) and (10499.65,8400.00) 
+    GND.
+Gap in Net "GND" between (10499.65,8400.00) and (10852.80,8430.00) 
+    GND.
+Gap in Net "GND" between (10852.80,8430.00) and (10852.80,8330.00) 
+    GND.
+Gap in Net "GND" between (10852.80,8330.00) and (10852.80,8280.00) 
+    GND.
+Gap in Net "GND" between (10852.80,8280.00) and (10852.80,8180.00) 
+    GND.
+Gap in Net "GND" between (10852.80,8180.00) and (10622.00,8060.00) 
+    GND.
+Gap in Net "GND" between (10622.00,8060.00) and (10590.00,7870.00) 
+    GND.
+Gap in Net "GND" between (10852.80,8280.00) and (11215.00,8280.00) 
+    GND.
+Gap in Net "GND" between (11215.00,8280.00) and (11215.00,8330.00) 
+    GND.
+Gap in Net "GND" between (11215.00,8330.00) and (11330.00,8320.00) 
+    GND.
+Gap in Net "GND" between (11330.00,8320.00) and (11425.00,8367.00) 
+    GND.
+Gap in Net "GND" between (11425.00,8367.00) and (11700.00,8140.00) 
+    GND.
+Gap in Net "GND" between (10622.00,8060.00) and (10170.00,8040.00) 
+    GND.
+Gap in Net "GND" between (10170.00,8040.00) and (10055.00,7975.00) 
+    GND.
+Gap in Net "GND" between (10055.00,7975.00) and (9925.00,7975.00) 
+    GND.
+Gap in Net "GND" between (9925.00,7975.00) and (9815.00,7975.00) 
+    GND.
+Gap in Net "GND" between (9815.00,7975.00) and (9685.00,8035.00) 
+    GND.
+Gap in Net "GND" between (11425.00,8367.00) and (11700.00,8760.00) 
+    GND.
+Gap in Net "GND" between (11700.00,8760.00) and (11555.00,9250.00) 
+    GND.
+Gap in Net "GND" between (11555.00,9250.00) and (11282.50,9655.00) 
+    GND.
+Gap in Net "GND" between (11282.50,9655.00) and (11550.00,9790.00) 
+    GND.
+Gap in Net "GND" between (11550.00,9790.00) and (11670.00,10219.92) 
+    GND.
+Gap in Net "GND" between (11670.00,10219.92) and (11430.00,10219.92) 
+    GND.
+Gap in Net "GND" between (11555.00,9250.00) and (11126.50,8937.50) 
+    GND.
+Gap in Net "GND" between (11126.50,8937.50) and (11060.00,8942.50) 
+    GND.
+Gap in Net "MOTL_ENC" between (8875.00,9947.50) and (9077.50,8970.00) 
+    MOTL_ENC.
+Gap in Net "MOTR_ENC" between (9275.00,9070.00) and (9175.00,9947.50) 
+    MOTR_ENC.
+Gap in Net "MOT_ENABLE" between (8890.00,9261.10) and (11071.40,8595.00) 
+    MOT_ENABLE.
+Gap in Net "MOT_ENABLE" between (11071.40,8595.00) and (11211.40,8595.00) 
+    MOT_ENABLE.
+Gap in Net "MUX_SELECT" between (9509.00,8982.40) and (9509.00,9192.40) 
+    MUX_SELECT.
+Gap in Net "MUX_SELECT" between (9509.00,9192.40) and (9499.00,9412.40) 
+    MUX_SELECT.
+Gap in Net "MUX_SELECT" between (9499.00,9412.40) and (9514.00,9602.40) 
+    MUX_SELECT.
+Gap in Net "MUX_SELECT" between (9514.00,9602.40) and (9515.00,9702.50) 
+    MUX_SELECT.
+Gap in Net "MUX_SELECT" between (9515.00,9702.50) and (9575.00,9885.00) 
+    MUX_SELECT.
+Single pin net N0072 on U5.8 at 8506.77,9741.00
+Gap in Net "N0079" between (11215.00,8530.00) and (11146.40,8595.00) 
+    N0079.
+Gap in Net "VBATTERY" between (11063.90,8230.00) and (10490.00,8815.00) 
+    VBATTERY.
 
-No errors found
+Number of errors found : 96
 
 
 Settings
@@ -27,12 +218,12 @@ Spacings
 
 =========
 
-Tracks        Yes
-Pads and Vias Yes
-Shapes        Yes
-Text          Yes
-Board         Yes
-Drills        Yes
+Tracks        No
+Pads and Vias No
+Shapes        No
+Text          No
+Board         No
+Drills        No
 Components    No
 
 
@@ -53,7 +244,7 @@ Nets
 
 =====
 
-Net Completion               No
+Net Completion               Yes
 Dangling Tracks              No
 Net Track Length Differences No
 
