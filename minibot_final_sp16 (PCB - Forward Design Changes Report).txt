@@ -7,11 +7,14 @@ Project Path:       F:\ece-minibot-pcb-sp16\minibot_final_sp16.prj
 Design Path:        F:\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/9/2016 5:15:44 AM
-Editing Time:       632 min
+Last Saved:         5/9/2016 6:04:37 AM
+Editing Time:       675 min
 Units:              mil (precision 2)
 
-The designs are the same, so no design changes to forward.
+Connected pin "U4-25" to net "PIC_RB14".
+Connected pin "U5-2" to net "PIC_SCK".
+Connected pin "R14-1" to net "PIC_SCK".
+Connected pin "R14-2" to net "PIC_RB14".
 
 
 End Of Report.

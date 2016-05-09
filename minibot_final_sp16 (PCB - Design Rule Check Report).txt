@@ -1,0 +1,62 @@
+Design Rule Check Report
+------------------------
+
+Report File:        F:\ece-minibot-pcb-sp16\minibot_final_sp16 (PCB - Design Rule Check Report).txt
+Report Written:     Monday, May 09, 2016
+Project Path:       F:\ece-minibot-pcb-sp16\minibot_final_sp16.prj
+Design Path:        F:\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
+Design Title:       
+Created:            5/3/2016 6:45:54 AM
+Last Saved:         5/9/2016 6:18:40 AM
+Editing Time:       689 min
+Units:              mil (precision 2)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Min Drill Hole Size  No
+Min Track Width      No
+Min Annular Ring     No
+Copper Text In Board No
+Mirrored Text        No
+Routing Areas        No
+Drill Breakout       No
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.
