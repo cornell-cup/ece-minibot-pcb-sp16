@@ -1,14 +1,14 @@
 Design Consistency Status Report
 --------------------------------
 
-Report File:        C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16 (PCB - Design Consistency Status Report).txt
-Report Written:     Saturday, May 07, 2016
-Project Path:       C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16.prj
-Design Path:        C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
+Report File:        F:\ece-minibot-pcb-sp16\minibot_final_sp16 (PCB - Design Consistency Status Report).txt
+Report Written:     Monday, May 09, 2016
+Project Path:       F:\ece-minibot-pcb-sp16\minibot_final_sp16.prj
+Design Path:        F:\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/7/2016 3:40:02 AM
-Editing Time:       173 min
+Last Saved:         5/9/2016 12:38:01 AM
+Editing Time:       485 min
 Units:              mil (precision 2)
 
 

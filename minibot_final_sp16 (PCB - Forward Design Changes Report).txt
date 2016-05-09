@@ -1,25 +1,41 @@
 Forward Design Changes Report
 -----------------------------
 
-Report File:        C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16 (PCB - Forward Design Changes Report).txt
-Report Written:     Saturday, May 07, 2016
-Project Path:       C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16.prj
-Design Path:        C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
+Report File:        F:\ece-minibot-pcb-sp16\minibot_final_sp16 (PCB - Forward Design Changes Report).txt
+Report Written:     Monday, May 09, 2016
+Project Path:       F:\ece-minibot-pcb-sp16\minibot_final_sp16.prj
+Design Path:        F:\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/7/2016 3:40:02 AM
-Editing Time:       173 min
+Last Saved:         5/9/2016 12:38:01 AM
+Editing Time:       485 min
 Units:              mil (precision 2)
 
-Disconnected pin "L2-4" from net "N0331".
-Disconnected pin "R49-2" from net "N0331".
-Disconnected pin "C23-2" from net "N0331".
+Disconnected pin "Q2-3" from net "VBATTERY".
+Disconnected pin "R48-2" from net "VBATTERY".
+Disconnected pin "U18-1" from net "VBATTERY".
 
-Deleted net "N0331".
+Added net "N0578".
 
-Connected pin "L2-4" to net "+3V3".
-Connected pin "C23-2" to net "+3V3".
-Connected pin "R49-2" to net "+3V3".
+Added component reference "Switch" of component "TERM2", package "USER".
+Added value "Manufacturer=On Shore Technology Inc" to component reference "Switch".
+
+Added value "Manufacturer Part Number=OSTTC022162" to component reference "Switch".
+
+Added value "Distributor=Digikey" to component reference "Switch".
+
+Added value "Distributor Part Number=ED2609-ND " to component reference "Switch".
+
+Added value "URL=http://www.digikey.com/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" to component reference "Switch".
+
+Added value "Value=Switch" to component reference "Switch".
+
+
+Connected pin "Q2-3" to net "N0578".
+Connected pin "U18-1" to net "N0578".
+Connected pin "R48-2" to net "N0578".
+Connected pin "Switch-1" to net "N0578".
+Connected pin "Switch-2" to net "VBATTERY".
 
 
 End Of Report.
