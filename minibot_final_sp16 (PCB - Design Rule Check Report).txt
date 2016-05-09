@@ -1,14 +1,14 @@
 Design Rule Check Report
 ------------------------
 
-Report File:        F:\ece-minibot-pcb-sp16\minibot_final_sp16 (PCB - Design Rule Check Report).txt
+Report File:        D:\Spring 2016\Minibot\ece-minibot-pcb-sp16\minibot_final_sp16 (PCB - Design Rule Check Report).txt
 Report Written:     Monday, May 09, 2016
-Project Path:       F:\ece-minibot-pcb-sp16\minibot_final_sp16.prj
-Design Path:        F:\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
+Project Path:       D:\Spring 2016\Minibot\ece-minibot-pcb-sp16\minibot_final_sp16.prj
+Design Path:        D:\Spring 2016\Minibot\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/9/2016 6:39:13 AM
-Editing Time:       709 min
+Last Saved:         5/9/2016 3:37:19 PM
+Editing Time:       768 min
 Units:              mil (precision 2)
 
 
