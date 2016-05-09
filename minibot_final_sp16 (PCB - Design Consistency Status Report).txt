@@ -7,13 +7,13 @@ Project Path:       F:\ece-minibot-pcb-sp16\minibot_final_sp16.prj
 Design Path:        F:\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/9/2016 6:04:37 AM
-Editing Time:       675 min
+Last Saved:         5/9/2016 6:48:22 AM
+Editing Time:       718 min
 Units:              mil (precision 2)
 
 
-Checking integrity of Schematic "F:\ece-minibot-pcb-sp16\minibot_final_sp16.sch" with PCB "F:\ece-minibot-pcb-sp16\minibot_final_sp16.pcb"
-==========================================================================================================================================
+Checking integrity of Schematic and Pcb designs in project "minibot_final_sp16"
+===============================================================================
 
 
 End Of Report.

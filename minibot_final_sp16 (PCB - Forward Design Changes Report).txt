@@ -7,14 +7,18 @@ Project Path:       F:\ece-minibot-pcb-sp16\minibot_final_sp16.prj
 Design Path:        F:\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/9/2016 6:04:37 AM
-Editing Time:       675 min
+Last Saved:         5/9/2016 6:48:22 AM
+Editing Time:       718 min
 Units:              mil (precision 2)
 
-Connected pin "U4-25" to net "PIC_RB14".
-Connected pin "U5-2" to net "PIC_SCK".
-Connected pin "R14-1" to net "PIC_SCK".
-Connected pin "R14-2" to net "PIC_RB14".
+Disconnected pin "U1-1" from net "+5V".
+Disconnected pin "ColorSensor-7" from net "+5V".
+
+Added net "5V_EDISON".
+
+Connected pin "EDISON-5" to net "5V_EDISON".
+Connected pin "U1-1" to net "5V_EDISON".
+Connected pin "ColorSensor-7" to net "5V_EDISON".
 
 
 End Of Report.
