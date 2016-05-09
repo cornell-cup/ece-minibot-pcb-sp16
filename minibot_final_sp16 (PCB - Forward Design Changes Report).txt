@@ -7,35 +7,15 @@ Project Path:       F:\ece-minibot-pcb-sp16\minibot_final_sp16.prj
 Design Path:        F:\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/9/2016 12:38:01 AM
-Editing Time:       485 min
+Last Saved:         5/9/2016 1:11:17 AM
+Editing Time:       514 min
 Units:              mil (precision 2)
 
-Disconnected pin "Q2-3" from net "VBATTERY".
-Disconnected pin "R48-2" from net "VBATTERY".
-Disconnected pin "U18-1" from net "VBATTERY".
+Disconnected pin "L1-1" from net "BUCK_LX_2".
+Disconnected pin "L1-4" from net "+5V".
 
-Added net "N0578".
-
-Added component reference "Switch" of component "TERM2", package "USER".
-Added value "Manufacturer=On Shore Technology Inc" to component reference "Switch".
-
-Added value "Manufacturer Part Number=OSTTC022162" to component reference "Switch".
-
-Added value "Distributor=Digikey" to component reference "Switch".
-
-Added value "Distributor Part Number=ED2609-ND " to component reference "Switch".
-
-Added value "URL=http://www.digikey.com/product-detail/en/on-shore-technology-inc/OSTTC022162/ED2609-ND/614558" to component reference "Switch".
-
-Added value "Value=Switch" to component reference "Switch".
-
-
-Connected pin "Q2-3" to net "N0578".
-Connected pin "U18-1" to net "N0578".
-Connected pin "R48-2" to net "N0578".
-Connected pin "Switch-1" to net "N0578".
-Connected pin "Switch-2" to net "VBATTERY".
+Connected pin "L1-1" to net "+5V".
+Connected pin "L1-4" to net "BUCK_LX_2".
 
 
 End Of Report.
