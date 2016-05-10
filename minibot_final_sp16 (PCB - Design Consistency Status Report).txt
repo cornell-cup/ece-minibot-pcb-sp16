@@ -7,8 +7,8 @@ Project Path:       D:\Spring 2016\Minibot\ece-minibot-pcb-sp16\minibot_final_sp
 Design Path:        D:\Spring 2016\Minibot\ece-minibot-pcb-sp16\minibot_final_sp16.pcb
 Design Title:       
 Created:            5/3/2016 6:45:54 AM
-Last Saved:         5/9/2016 5:13:08 PM
-Editing Time:       861 min
+Last Saved:         5/9/2016 7:52:44 PM
+Editing Time:       887 min
 Units:              mil (precision 2)
 
 
