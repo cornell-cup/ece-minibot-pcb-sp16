@@ -1,13 +1,15 @@
 Component                     Package   Value               Manuf               Manuf Part No       Distrib             Distrib Part No     Ref Name         Qty
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-2WP                           DSC                                                                                                           PL2                1
-3WP                           DSC       RGB LED                                                                                             PL3                1
-3WP                           DSC       Servo                                                                                               PL1                1
-5WP                           DSC       +3.3V               Sullins Connector Solutions PPTC051LFBN-RC     Digikey             S6103-ND            PL5                1
-5WP                           DSC       +5V                 Sullins Connector Solutions PPTC051LFBN-RC     Digikey             S6103-ND            PL4                1
-5WP                           DSC       ICSP                TE Connectivity AMP Connectors640456-5            Digikey             A19471-ND           M2                 1
-5WP                           DSC       LEFT MOTOR          TE Connectivity AMP Connectors281698-5            Digikey             A106216-ND          M1                 1
-5WP                           DSC       RIGHT MOTOR         TE Connectivity AMP Connectors281698-5            Digikey             A106216-ND          M3                 1
+2WP                           DSC                           Harwin Inc          M7581-05            Digikey             952-2169-ND                            1
+                                                                                                                                                      PICorEdison          
+3WP                           DSC       RGB LED                                                                                                                1
+                                                                                                                                                      RGBIndicator          
+3WP                           DSC       Servo                                                                                               Servo              1
+5WP                           DSC       +3.3V               Sullins Connector Solutions PPTC051LFBN-RC     Digikey             S6103-ND            Out3V3             1
+5WP                           DSC       +5V                 Sullins Connector Solutions PPTC051LFBN-RC     Digikey             S6103-ND            Out5V              1
+5WP                           DSC       ICSP                TE Connectivity AMP Connectors640456-5            Digikey             A19471-ND           ICSP               1
+5WP                           DSC       LEFT MOTOR          TE Connectivity AMP Connectors281698-5            Digikey             A106216-ND          MotorLeft          1
+5WP                           DSC       RIGHT MOTOR         TE Connectivity AMP Connectors281698-5            Digikey             A106216-ND          MotorRight         1
 74LVC1G3157DBVRG4             DBV6                          Texas Instruments   SN74LVC1G3157DBVR   Digikey             296-14908-1-ND      U6 U7 U10          4
                                                                                                                                             U11                 
 1206YG225ZATEA                SM1206    4.7uF               TDK                 C3216X7R1H475K160AC Digikey             445-8032-1-ND       C21 C22            2
@@ -15,28 +17,27 @@ Component                     Package   Value               Manuf               
                               USER                          Wurth Electronics Inc865080245009        Digikey             732-8492-1-ND       C24                1
 AL5809                        USER                          Diodes Incorporated AL5809-15S1-7       Digikey             AL5809-15S1-7DICT-ND U14 U15            2
 AOZ1282CI                     USER                          Alpha & Omega Semiconductor Inc.AOZ1282CI           Digikey             785-1613-1-ND       U19 U20            2
-B2B-PH JST 2mm                USER                          JST Sales America Inc.B2B-PH-K-S(LF)(SN)  Digikey             455-1704-ND         CONN3              1
-B4B-PH JST 2mm                USER                          JST Sales America IncB4B-PH-K-S(LF)(SN)  Digikey             455-1706-ND         CONN2              1
+B2B-PH JST 2mm                USER                          JST Sales America Inc.B2B-PH-K-S(LF)(SN)  Digikey             455-1704-ND         LidarMotor         1
+B4B-PH JST 2mm                USER                          JST Sales America IncB4B-PH-K-S(LF)(SN)  Digikey             455-1706-ND         LidarData          1
 BNO055                        USER                                                                                                          U1                 1
-C                             SM        10nF                Yageo               CC0603KRX7R9BB103   Digikey             311-1085-1-ND       C2                 1
-C                             SM        100nF               TDK Corporation     C1608X7R1C224K080AC Digikey             445-1318-1-ND       C4 C13 C14         4
-                                                                                                                                            C15                 
-C                             SM        220nF               TDK Corporation     C1608X7R1C224K080AC Digikey             445-1318-1-ND       C3                 1
-C1206                         SM        100nF               Kemet               C1206C104K4RACTU    Digikey             399-9305-1-ND       C7 C8 C9           8
-                                                                                                                                            C10 C12             
+C-0603                        USER      10nF                Yageo               CC0603KRX7R9BB103   Digkiey             311-1085-2-ND       C2                 1
+C-0603                        USER      100nF               Yageo               CC0603KRX7R7BB104   Digkiey             311-1088-2-ND       C7 C14 C15        11
+                                                                                                                                            C20 C19             
                                                                                                                                             C16 C17             
-                                                                                                                                            C18                 
-                              SM                            Kemet               C1206C104K5RAC7867  Digikey             399-1249-1-ND       C19 C20            2
-C1206-POL                     SM        10uF                                                                                                C5                 1
-                              SM                            AVX Corporation     TPSA106K006R1500    Digikey             478-2388-1-ND       C6                 1
-                              SM                                                                                                            C11                1
+                                                                                                                                            C28 C18 C9          
+                                                                                                                                            C10                 
+                              USER                          Yageo               CC0603KRX7R9BB104   Digkiey             311-1344-2-ND       C4                 1
+                              USER                          Yageo               CC0603KRX7R7BB104   Digkiey             311-1088-2-ND       C11 C12            2
+C-0603                        USER      220nF               TDK Corporation     C1608X7R1H224K080AB Digikey             311-1085-2-ND       C3                 1
+C1206                         SM        10uF                Murata Electronics North AmericaGRM31CR61H106MA12L  Digikey             490-10756-1-ND      C1 C5              2
+C1206-POL                     SM        10uF                AVX Corporation     TPSA106K006R1500    Digikey             478-2388-1-ND       C6 C8              2
 CAP-2917-POL                  USER      100uF               Kemet               T491X107K025AT      Digikey             399-8410-1-ND       C25 C26            3
                                                                                                                                             C27                 
 CD1206-B260                   USER                          Bourns Inc           CD1206-B260        Digikey             CD1206-B260CT-ND    D1 D4 D5           4
                                                                                                                                             D6                  
 D-SM                          SM        1N4148                                                                                              D2 D3              2
 DZ2410000L                    TMiniP2-F2-B                    Panasonic           DZ2410000L          Digikey             DZ2410000LCT-ND     U18                1
-Edison                        USER                                                                                                          CONN1              1
+Edison                        USER                                                                                                          EDISON             1
 FUSE-1206                     USER      6A                  Littelfuse Inc.      0469006.WR         Digikey             F3540CT-ND          FS1                1
 L6205                         USER                          STMicroelectronics  L6205D013TR         Digikey             497-3998-1-ND       U2                 1
 LM35DZ_NOPB                   Z03A                          Texas Instruments   LM35DZ              Digikey             LM35DZ/NOPB-ND      U8                 1
@@ -45,42 +46,44 @@ MMBTA06                       SOT23                         Fairchild Semiconduc
                                                                                                                                             U16                 
 PIC32MX250F128B               SOL                           Microchip TechnologyPIC32MX250F128B-I/SS Digikey             PIC32MX250F128B-I/SS-ND U4                 1
 PMOS                          DSC                           ON Semiconductor    IRFR5305TRPBF       Digikey             IRFR5305PBFCT-ND    Q1 Q2              2
-R-0603                        SM        10k                 Yageo               RC0603JR-0710KL     Digikey             311-10KGRTR-ND      R41 R45 R2        13
-                                                                                                                                            R3 R4 R6            
-                                                                                                                                            R39 R34             
-                                                                                                                                            R19 R42             
-                                                                                                                                            R26 R54             
-                                                                                                                                            R55                 
-R-1206                        SM        1k                  Panasonic Electronic ComponentsERJ-8GEYJ102V       Digikey             P1.0KECT-ND         R5 R27 R28         9
+R-0603                        SM        1k                  Yageo               RC0603JR-071KL      Digikey             311-1.0KGRTR-ND     R5 R27 R28         9
+                                                                                                                                            R53 R47             
+                                                                                                                                            R24 R46             
                                                                                                                                             R37 R38             
-                                                                                                                                            R46 R24             
-                                                                                                                                            R47 R53             
-R-1206                        SM        9.53k               Yageo               ERA-8AEB9531V       Digikey             P9.53KBCCT-ND       R52                1
-R-1206                        SM        15.8k               Yageo               ERA-8AEB1582V       Digikey             P15.8KBCCT-ND       R50                1
-R-1206                        SM        18k                 Yageo               RC1206JR-0718KL     Digikey             311-18KERCT-ND      R23 R35            3
+R-0603                        SM        9.53k               Panasonic Electronic ComponentsERA-3AEB9531V       Digikey             P9.53KDBCT-ND       R52                1
+R-0603                        SM        10k                 Yageo               RC0603JR-0710KL     Digikey             311-10KGRTR-ND      R41 R45 R2         8
+                                                                                                                                            R3 R4 R6            
+                                                                                                                                            R34 R19             
+                              SM                            Yageo               RT0603BRD0710KL     Digikey             YAG1236CT-ND        R42                1
+                              SM                            Yageo               RC0603JR-0710KL     Digikey             311-10KGRTR-ND      R26 R54            3
+                                                                                                                                            R55                 
+                              SM                            Yageo               RT0603BRD0710KL     Digikey             YAG1236CT-ND        R39                1
+R-0603                        SM        15.8k               Panasonic Electronic ComponentsERA-3AEB1582V       Digikey             P15.8KDBCT-ND       R50                1
+R-0603                        SM        18k                 Yageo               RC0603JR-0718KL     Digikey             311-18KGRTR-ND      R23 R35            3
                                                                                                                                             R48                 
-R-1206                        SM        30                  Yageo               RC1206JR-0730RL     Digikey             311-30ERCT-ND       R8 R9 R10          8
-                                                                                                                                            R11 R12             
-                                                                                                                                            R13 R14             
-                                                                                                                                            R15                 
-R-1206                        SM        45.3k               Stackpole Electronics IncRNCF1206BKC45K3     Digikey              RNCF1206BKC45K3CT-ND R40                1
-R-1206                        SM        49.9k               Yageo               RT1206BRD0749K9L    Digikey             YAG2053CT-ND        R49 R51            2
-R-1206                        SM        91k                 Panasonic Electronic ComponentsERA-8AEB913V        Digikey             P91KBCCT-ND         R43                1
-R-1206                        SM        300                 Yageo                RC1206JR-07300RL   Digikey             311-300ERCT-ND      R16 R17           13
-                                                                                                                                            R18 R20             
-                                                                                                                                            R21 R22             
-                                                                                                                                            R25 R29             
-                                                                                                                                            R30 R31             
+R-0603                        SM        30                  Yageo                RC0603FR-0730RL    Digikey             311-30.0HRTR-ND     R11 R10 R9         8
+                                                                                                                                            R8 R15 R13          
+                                                                                                                                            R12 R14             
+R-0603                        SM        45.3k               Yageo               RT0603BRD0745K3L    Digikey             YAG1663CT-ND        R40                1
+R-0603                        SM        49.9k               Panasonic Electronic ComponentsERA-3AEB4992V       Digikey             P49.9KDBCT-ND       R49 R51            2
+R-0603                        SM        91k                 Yageo               RT0603BRD0791KL     Digikey              YAG1749CT-ND       R43                1
+R-0603                        SM        100                 Yageo               RC0603FR-07100RL    Digikey             311-100HRTR-ND      R1                 1
+R-0603                        SM        100K                Yageo               RC0603JR-07100KL    Digikey             311-100KGRTR-ND     R7 R33             2
+R-0603                        SM        300                 Yageo               RC0603JR-07300RL    Digikey             311-300GRTR-ND      R25 R20           13
+                                                                                                                                            R21 R31             
                                                                                                                                             R32 R36             
+                                                                                                                                            R22 R16             
+                                                                                                                                            R30 R29             
+                                                                                                                                            R18 R17             
                                                                                                                                             R44                 
-R-SM                          SM        100                 Yageo                RC1206JR-07100RL   Digikey              311-100ERCT-ND     R1                 1
-R-SM                          SM        100k                Vishay Dale         CRCW1206100KJNEA    Digikey              541-100KECT-ND     R7 R33             2
-SIL7                          USER                                                                                                          CONN6              1
+SIL7                          USER                                                                                                                             1
+                                                                                                                                                      ColorSensor          
 SN74LV1T34                    USER                          Texas Instruments   SN74LV1T34DCKR      Digikey             296-37177-1-ND      U17                1
 SRR0906                       USER      22uH                Bourns Inc          SRR0906-220ML       Digikey             SRR0906-220MLCT-ND  L1 L2              2
-TERM2                         USER      Battery             On Shore Technology IncOSTTC022162         Digikey             ED2609-ND           CONN5              1
-TERM2                         USER      Charging port       Weidmuller          1760490000          Digikey             281-2888-ND         CONN4              1
+TERM2                         USER      Battery             On Shore Technology IncOSTTC022162         Digikey             ED2609-ND           Battery            1
+TERM2                         USER      Charging port       Weidmuller          1760490000          Digikey             281-2888-ND         Charger            1
+TERM2                         USER      Switch              On Shore Technology IncOSTTC022162         Digikey             ED2609-ND           Switch             1
 TXB0104PWR                    PW14                          Texas Instruments   TXB0104PWR          Digikey             296-21929-1-ND      U5                 1
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                                                                                             126
+                                                                                                                                                             128
 PCB Artist Bill of Materials is provided for reference only and must be verified by the user.

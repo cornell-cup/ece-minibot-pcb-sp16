@@ -1,0 +1,42 @@
+Unconnected Pins Report
+-----------------------
+
+Report File:        C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16 (SCH - Unconnected Pins Report).txt
+Report Written:     Tuesday, May 10, 2016
+Project Path:       C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16.prj
+Design Path:        C:\Users\Lab User\Documents\GitHub\ece-minibot-pcb-sp16\minibot_final_sp16.sch
+Design Title:       
+Created:            
+Last Saved:         5/10/2016 10:03:20 AM
+Editing Time:       3260 min
+Units:              mil (precision 0)
+
+Component EDISON Pin EDISON-1 (AREF)
+Component EDISON Pin EDISON-2 (IOREF)
+Component EDISON Pin EDISON-3 (RESET)
+Component EDISON Pin EDISON-4 (3.3V)
+Component EDISON Pin EDISON-11 (A2)
+Component EDISON Pin EDISON-12 (A3)
+Component EDISON Pin EDISON-13 (A4)
+Component EDISON Pin EDISON-14 (A5)
+Component EDISON Pin EDISON-16 (1/TX)
+Component EDISON Pin EDISON-30 (AREF)
+Component U1 Pin U1-2 (3vo)
+Component U1 Pin U1-6 (RST)
+Component U1 Pin U1-7 (ADR)
+Component U1 Pin U1-8 (INT)
+Component U1 Pin U1-9 (PS1)
+Component U1 Pin U1-10 (PS0)
+Component LidarData Pin LidarData-3
+Component U4 Pin U4-15 (VBUS)
+Component U4 Pin U4-16 (INT0/RB7)
+Component U4 Pin U4-23 (VUSB3V3)
+Component U4 Pin U4-24 (AN11/RB13)
+Component U5 Pin U5-6 (NC)
+Component U5 Pin U5-9 (NC)
+Component ColorSensor Pin ColorSensor-2
+Component ColorSensor Pin ColorSensor-5
+
+Unconnected pins found : 25
+
+End Of Report.
